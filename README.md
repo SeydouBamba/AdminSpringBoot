@@ -6,11 +6,14 @@ nous avons ajouter des request  "all" pour l'affichage, "findById" et "login" po
 ![image](https://user-images.githubusercontent.com/124637366/219877675-b8758fd8-0c8d-4ede-9137-60ab2227609d.png)
 
 Le resultat de l'affichage de tous les utilisateurs de la base est : 
-![image](https://user-images.githubusercontent.com/124637366/219878247-c21d7eda-739e-481d-8574-a9159feeb44b.png)
+![image](https://user-images.githubusercontent.com/124637366/219900109-32d3c1a5-8a33-41d6-84ba-239466c17219.png)
 
 Le resultat de la connexion par id est : 
-![image](https://user-images.githubusercontent.com/124637366/219877994-c3d161f6-6bb6-4846-9806-8b404d596f88.png)
+ #Pour id=1
+![image](https://user-images.githubusercontent.com/124637366/219900159-a3f96948-44d4-435c-928b-550fd05dad18.png)
 
+  #Pour id=3
+ ![image](https://user-images.githubusercontent.com/124637366/219900206-264a6802-e14c-417a-80a2-028a94c42230.png)
 
 Le lien est le suivant:
 github.com/SeydouBamba/AdminSpringBoot
