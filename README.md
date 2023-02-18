@@ -6,7 +6,7 @@ nous avons ajouter des request  "all" pour l'affichage, "findById" et "login" po
 ![image](https://user-images.githubusercontent.com/124637366/219877675-b8758fd8-0c8d-4ede-9137-60ab2227609d.png)
 
 Le resultat de l'affichage de tous les utilisateurs de la base est : 
-![image](https://user-images.githubusercontent.com/124637366/219877888-9021a1a9-eefe-4d09-8271-37c41e20cdfc.png)
+![image](https://user-images.githubusercontent.com/124637366/219878247-c21d7eda-739e-481d-8574-a9159feeb44b.png)
 
 Le resultat de la connexion par id est : 
 ![image](https://user-images.githubusercontent.com/124637366/219877994-c3d161f6-6bb6-4846-9806-8b404d596f88.png)
