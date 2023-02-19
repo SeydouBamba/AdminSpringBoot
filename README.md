@@ -1,7 +1,7 @@
 # AdminSpringBoot
 # Creation de la base de données
 Nous avons utiliser Spring boot pour la création de notre base de données.
-Nous avons choisit maven comme projet, java comme langage, et 2.7.8 comme version de spring boot. Nous avons également ajoutés les dépendances suivantes :
+Nous avons choisis "maven" comme projet, "java" comme langage, et "2.7.8" comme version de spring boot. Nous avons également ajoutés les dépendances suivantes :
 - Web
 - JPA
 - Actuator
