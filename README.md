@@ -15,7 +15,7 @@ Nous avons choisis "maven" comme projet, "java" comme langage, et "2.7.8" comme 
 Ouvrer un navigateur et taper le lien suivant: http://localhost:8081/swagger-ui.html
 
 Cela vous donne la possibiité d'effectuer trois opérations à savoir: 
-- insertion dans la données dans la base
+- insertion de données dans la base
 - affichage du contenu de la base
 - connexion à la base à l'aide du id
 En validant le lien vous avez la page suivante 
