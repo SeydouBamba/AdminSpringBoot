@@ -53,6 +53,8 @@ Il est aussi possible d'effectuer les opération d'insertion, d'affichage et de 
 Pour ce fait, nous avons créer dans "Projet Ecole", une collection nommée "admin". Dans cette collection nous avons ajouter un folder appélé "user" dans lequel
 nous avons ajouter des request  "all" pour l'affichage, "findById" et "login" pour la connexion.
 
+Structure de admin dans postman
+
 ![image](https://user-images.githubusercontent.com/124637366/219877675-b8758fd8-0c8d-4ede-9137-60ab2227609d.png)
 
 Le resultat de l'affichage de tous les utilisateurs de la base est :
